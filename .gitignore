@@ -1,0 +1,12 @@
+# DATA
+*.csv
+data/results/*
+
+# IPYTHON CHECKPOINTS
+*.ipynb_checkpoints
+
+# PICKLES
+*.pkl.gz
+
+# CACHE
+*__pycache__
