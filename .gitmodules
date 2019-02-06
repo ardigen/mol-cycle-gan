@@ -1,0 +1,3 @@
+[submodule "jtvae"]
+	path = jtvae
+	url = https://github.com/wengong-jin/icml18-jtnn
